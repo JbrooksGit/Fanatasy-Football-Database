@@ -6,8 +6,8 @@ import java.sql.*;
 
 public class Football {
     
-private static final String USERNAME="root";
-private static final String PASSWORD="Bella123";
+private static final String USERNAME="HIDDEN";
+private static final String PASSWORD="HIDDEN";
 private static final String CONN_STRING="jdbc:mysql://localhost:3306/football";
 
 
